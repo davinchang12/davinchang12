@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Davin
-- 👀 I’m interested in data science and android development using flutter
+- 👀 I’m interested in data science and flutter
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on python and flutter projects
 - 📫 How to reach me davinchang12@gmail.com
