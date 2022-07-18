@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Davin
 - 👀 I’m interested in back-end and flutter
 - 🌱 I’m currently learning laravel and flutter
-- 💞️ I’m looking to collaborate on python and flutter projects
+- 💞️ I’m looking to collaborate on laravel and flutter projects
 - 📫 How to reach me davinchang12@gmail.com
 
 <!---
